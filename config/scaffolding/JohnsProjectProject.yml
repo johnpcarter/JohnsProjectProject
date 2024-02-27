@@ -12,3 +12,7 @@ services:
   packages:
   - name: JohnsProjectProject
     version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.786
