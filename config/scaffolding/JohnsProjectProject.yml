@@ -24,3 +24,7 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.792
+- serviceName: project.johnsproject.integrations:xvsdfsdfsf
+  packages:
+  - name: JohnsProjectProject
+    version: "1.0"
